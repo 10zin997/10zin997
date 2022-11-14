@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10zin997" alt="10zin997" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/10zin997](https://github.com/10zin997)
 
